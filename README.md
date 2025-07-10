@@ -8,16 +8,17 @@
 ## 📸 Screenshots
 
 ### 🧭 Main Menu  
-![Main Menu](./assets/main-menu.png)
+<img src="./assets/main-menu.png" alt="Main Menu" width="300"/>
 
 ### 🗺️ Gameplay Example (5×5 Board)  
-![5x5 Map](./assets/5x5-map.png)
+<img src="./assets/5x5-map.png" alt="5x5 Map" width="300"/>
 
 ### 🏆 Fugitive Victory  
-![Fugitive Wins](./assets/fugitive-win.png)
+<img src="./assets/fugitive-win.png" alt="Fugitive Wins" width="300"/>
 
 ### 🧿 Hunters Victory  
-![Hunters Win](./assets/hunters-won.png)
+<img src="./assets/hunters-won.png" alt="Hunters Win" width="300"/>
+
 
 ---
 
