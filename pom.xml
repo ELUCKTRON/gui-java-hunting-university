@@ -24,7 +24,7 @@
                 <configuration>
                   <archive>
                     <manifest>
-                      <mainClass>org.example.GameRunner</mainClass> <!-- Change to your actual main class -->
+                      <mainClass>hunting.GameRunner</mainClass> <!-- Change to your actual main class -->
                     </manifest>
                   </archive>
                 </configuration>
