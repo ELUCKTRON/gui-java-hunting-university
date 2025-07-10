@@ -5,6 +5,21 @@
 **Hunting** is a **two-player** strategic board game implemented in **Java** as a GUI application. Developed for a **university Programming Technology assignment (Semester 3)**, it simulates a chase scenario between a **fugitive** and a team of **hunters** on an `n x n` board. The game is fully playable with user interaction, win detection, and automatic game reset.
 
 ---
+## 📸 Screenshots
+
+### 🧭 Main Menu  
+![Main Menu](./assets/main-menu.png)
+
+### 🗺️ Gameplay Example (5×5 Board)  
+![5x5 Map](./assets/5x5-map.png)
+
+### 🏆 Fugitive Victory  
+![Fugitive Wins](./assets/fugitive-win.png)
+
+### 🧿 Hunters Victory  
+![Hunters Win](./assets/hunters-won.png)
+
+---
 
 ## 🧠 Game Concept
 
@@ -82,3 +97,9 @@ gui-java-hunting-university/
 6. A new game automatically starts.
 
 ---
+## 📚 University Info
+
+🎓 Student: Saeed Khanloo  
+🧠 Course: Programming Technology  
+🗓️ Semester: 3  
+🪪 License: MIT
